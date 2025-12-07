@@ -3,7 +3,8 @@
 ▶️ Power BI Service: <https://app.powerbi.com/links/T_FZexV5d_?ctid=caad3cec-d056-433f-ae6a-e89e73a7f3c7&pbi_source=linkShare>  
 
 📸 Preview Below  
-<img width="590" height="332" alt="image" src="https://github.com/user-attachments/assets/44673303-afcf-4f14-810f-b631679ec7b9" />
+<img width="584" height="329" alt="image" src="https://github.com/user-attachments/assets/0a3ac083-3967-46e4-b7da-59ee9e3db49d" />
+
 
 
 This project showcases real-time data processing and dashboard development using Weather API integration with Power BI. The solution includes structured data modeling, DAX calculations, KPI tracking, and modern dashboard design principles.
