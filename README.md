@@ -42,7 +42,7 @@ This dashboard supports quick decision-making, improves weather situation awaren
 
 ---
 
-📄 Author: **Monika Vats**
+📄 Created by: **Monika Vats**
 
 
 
