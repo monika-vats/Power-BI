@@ -1,6 +1,6 @@
 **# Live Weather & Forecast Dashboard (Power BI)**
 
-▶️ Live Report: <https://app.powerbi.com/links/T_FZexV5d_?ctid=caad3cec-d056-433f-ae6a-e89e73a7f3c7&pbi_source=linkShare>  
+▶️ Power BI Service: <https://app.powerbi.com/links/T_FZexV5d_?ctid=caad3cec-d056-433f-ae6a-e89e73a7f3c7&pbi_source=linkShare>  
 
 📸 Preview Below  
 <img width="590" height="332" alt="image" src="https://github.com/user-attachments/assets/44673303-afcf-4f14-810f-b631679ec7b9" />
